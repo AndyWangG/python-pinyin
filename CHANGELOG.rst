@@ -4,6 +4,8 @@ Changelog
 `未发布`_
 ++++++++++++++++++++++++
 
+* **[New]** 增加 py.typed 标记文件，支持 `PEP 561`_
+
 
 `0.30.1`_ (2018-04-25)
 ++++++++++++++++++++++++
@@ -607,6 +609,7 @@ __ https://github.com/mozillazg/python-pinyin/issues/8
 .. _#121: https://github.com/mozillazg/python-pinyin/pull/121
 .. _#125: https://github.com/mozillazg/python-pinyin/pull/125
 .. _#126: https://github.com/mozillazg/python-pinyin/pull/126
+.. _PEP 561: https://www.python.org/dev/peps/pep-0561/
 
 
 .. _0.2.0: https://github.com/mozillazg/python-pinyin/compare/v0.1.0...v0.2.0
